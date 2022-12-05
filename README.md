@@ -8,7 +8,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImXirvin&theme=github_dark&hide_border=true&exclude_repo=IMDB-Generator" />
   <br>
  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=github_dark&hide_border=true" />
-
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=ImXirvin&theme=github_dark&hide_border=true&range=all_time" />
+  <br>
+<img href="https://github.com/ImXirvin/xv-dev" src="https://github-readme-stats.vercel.app/api/pin/?username=ImXirvin&repo=xv-dev&theme=github_dark&hide_border=true" />
 </p>
+<!-- 
+[![Resource](https://github-readme-stats.vercel.app/api/pin/?username=ImXirvin&repo=xv-dev)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ImXirvin/xv-dev))
 
+ -->
