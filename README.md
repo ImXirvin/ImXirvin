@@ -10,7 +10,8 @@
  <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=ImXirvin&theme=github_dark&hide_border=true" />
   <br>
-<img href="https://github.com/ImXirvin/xv-dev" src="https://github-readme-stats.vercel.app/api/pin/?username=ImXirvin&repo=xv-dev&theme=github_dark&hide_border=true" />
+  <h4>Please Star</h4>
+<img href="https://github.com/ImXirvin/xv-dev" src="https://github-readme-stats.vercel.app/api/pin/?username=ImXirvin&repo=xv-dev&theme=github_dark" />
 </p>
 <!-- 
 [![Resource](https://github-readme-stats.vercel.app/api/pin/?username=ImXirvin&repo=xv-dev)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ImXirvin/xv-dev))
