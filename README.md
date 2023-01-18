@@ -1,4 +1,4 @@
-## Spaghetti code GOD
+## always lowercase cause i never cap 🧢
 
 <p align = 'left'>
   <img
