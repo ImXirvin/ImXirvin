@@ -1,5 +1,3 @@
-## always lowercase cause i never cap 🧢
-
 <p align = 'left'>
   <img
     src="https://github-readme-stats.vercel.app/api?username=ImXirvin&include_all_commits=true&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
